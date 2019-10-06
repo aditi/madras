@@ -1,0 +1,8 @@
+{
+	"name": "@aditi/stream-utils",
+	"version": "1.0.0",
+	"description": "Stream utils for asml",
+	"main": "index.js",
+	"author": "Muthu Kumar <@MKRhere> (https://mkr.pw)",
+	"license": "ISC"
+}
