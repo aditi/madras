@@ -1,0 +1,10 @@
+{
+	"name": "asml",
+	"private": true,
+	"scripts": {
+		"lint": "eslint '**/*.js' --fix"
+	},
+	"dependencies": {
+		"eslint": "^6.5.1"
+	}
+}
