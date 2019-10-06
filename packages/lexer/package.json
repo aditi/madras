@@ -1,5 +1,5 @@
 {
-	"name": "@aditi/lexer",
+	"name": "@aditi/madras-lexer",
 	"version": "1.0.0",
 	"description": "Lexer for asml",
 	"main": "index.js",

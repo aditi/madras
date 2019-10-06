@@ -1,5 +1,5 @@
 {
-	"name": "@aditi/parser",
+	"name": "@aditi/madras-parser",
 	"version": "1.0.0",
 	"description": "Parser for asml",
 	"main": "index.js",
@@ -9,6 +9,6 @@
 	"author": "Muthu Kumar <@MKRhere> (https://mkr.pw)",
 	"license": "MIT",
 	"dependencies": {
-		"@aditi/lexer": "workspace:*"
+		"@aditi/madras-lexer": "workspace:*"
 	}
 }
