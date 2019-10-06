@@ -1,0 +1,9 @@
+(html
+  (AditiHead)
+  (body
+    AditiBlogHeader
+    (divmaincontainer
+      (img
+        (at (src featuredImg)))
+      p(articleText))
+    AditiFooter))

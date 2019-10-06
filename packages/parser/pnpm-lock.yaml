@@ -1,0 +1,5 @@
+dependencies:
+  '@aditi/lexer': 'link:../lexer'
+lockfileVersion: 5.1
+specifiers:
+  '@aditi/lexer': 'workspace:*'
