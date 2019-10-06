@@ -1,6 +1,6 @@
 const lexer = require("@aditi/madras-lexer");
 
-const asml = require("fs").createReadStream(__dirname + "/demo.asml", "utf8");
+const asml = require("fs").createReadStream(__dirname + "/demo.masl", "utf8");
 
 const inc = x => x + 1;
 const tail = xs => xs[xs.length - 1];
