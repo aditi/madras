@@ -1,0 +1,14 @@
+{
+	"name": "@aditi/lexer",
+	"version": "1.0.0",
+	"description": "Lexer for asml",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Muthu Kumar <@MKRhere> (https://mkr.pw)",
+	"license": "ISC",
+	"dependencies": {
+		"@aditi/stream-utils": "workspace:*"
+	}
+}

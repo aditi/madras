@@ -1,0 +1,5 @@
+dependencies:
+  '@aditi/stream-utils': 'link:../stream-utils'
+lockfileVersion: 5.1
+specifiers:
+  '@aditi/stream-utils': 'workspace:*'
